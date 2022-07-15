@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Vukašin Marković
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/2560px-The_Great_Wave_off_Kanagawa.jpg)
 
-<!--
-**SeekEquilibrium/SeekEquilibrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vukašin from Serbia , currently a student at Faculty of Technical Sciences, University of Novi Sad , finishing my degree in Computing and Control Engineering. I enjoy learning languages and frameworks like VueJs and Angular , as well as work on my back-end skills.
 
-Here are some ideas to get you started:
+Skills: VUE JS / ANGULAR/  C#/ Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on getting my dissertation in HCI  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SeekEquilibrium)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeekEquilibrium&show_icons=true)  
+
+
